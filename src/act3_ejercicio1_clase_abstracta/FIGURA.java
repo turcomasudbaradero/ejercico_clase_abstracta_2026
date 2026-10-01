@@ -1,4 +1,4 @@
-package act3_ejercidio1_clase_abstracta;
+package act3_ejercicio1_clase_abstracta;
 
 public abstract class FIGURA {
     
